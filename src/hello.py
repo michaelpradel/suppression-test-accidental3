@@ -2,5 +2,5 @@
 
 def hello():
     """ Hello function """
-    print("Hello, world!")
-    
+    name = the_name
+    print(f"Hello, {name}!")
